@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="/CSS/style.css" type="text/css" rel="stylesheet">
+  <title> Samiya's Portfolio</title>
+
+   <head>
+       <body>
+<section class="navbar">
+<div class="logo">
+    <img src="/Img/logo-color.png"></img>
+  <nav class="navbar">
+    <ul>
+      <li class="nav-item"><a href="#">About</a></li>
+      <li class="nav-item"><a href="#">Work</a></li>
+      <li class="nav-item"><a href="#">Contact</a></li>
+    </ul>
+    </nav>
+  </div>
+</section>
+
+  
+<section class="bgimage">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <p>Hi!!
+          My name is Samiya and I am a UX/UI Designer base in Chicago IL. I am passionate about creating new and renovate old, is seen in my work through the world of UI/UX. 
+          </p>
+        <button>Download Resume</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  <h1 class="sectionhead"> Work </h1>
+  
+  <div class="container">
+    <h2 class="Case"> Airfli </h2>
+    <p> Creating an traveling app that ensures you dont go above budget. </p>
+    <button>View Case Study </button>
+    <img scr= "Project 1"></img>
+   </div>
+  
+  <div class= "container">
+    <h2 class="Case> No-Tow </h2>
+    <p> The one stop app to help with your parking issues. </p>
+    <button>View Case Study </button>
+    <img scr= "Project 2"></img>
+    </div>
+  
+  <div class= "container">
+    <h2 class="Case"> CCH Redesign  </h2>
+    <p> Redesign for the Chicago Coalition for the Homeless. </p>
+    <button>View Case Study </button>
+    <img scr= "Project 3"></img>
+  </div>
+  
+ <h2 class="sectionHead">Skills</h2>
+
+ <div class="card">
+     <h1 class="card-titl">User Research</h1>
+     <p class="card-tex">Interviews, surveys, testing are my pain approach to user research.</p>
+   </div>
+   
+<div class="card"> 
+     <h2 class="card-titl">Coding</h2>
+     <p class="card-text"> I have profound knowledge in HTML, CSS, JavaScript, Jquery, and Bootstrap.</p>
+   </div>
+   
+   <div class="card"> 
+     <h3 class="card-titl">UX Design</h3>
+     <p class="card-text"> I believe using research along with information Architecture,wireframing, prototyping & visual communication are the key points to focus on when it comes to UX design.</p>
+   </div>
+   
+   <div class="card"> 
+     <h4 class="card-titl">UI Design</h4>
+     <p class="card-text"> I believe using research along with information Architecture,wireframing, prototyping & visual communication are the key points to focus on when it comes to UX design.
+</p>
+   </div>
+   
+   <section class="heroImg">
+    <h2>Lets Work together?</h2>
+     <img src="/Img/66307D82-A5CD-4B51-8C58-238511A6279B.jpeg" alt="">
+   <p> Shoot an email at </p>
+      <a href="#shussain1000@gmail.com">shussain1000@gmail.com</a>
+  
+   <p> Call Me: 630-362-6906 </p>
+   </section>
+
+<footer>
+    <ul>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Work</li>
+        <li>Contact</li>
+    </ul>
+</footer>
+
+</body>
+</html>
